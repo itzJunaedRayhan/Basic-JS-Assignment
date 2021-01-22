@@ -12,8 +12,9 @@ function kilometerToMeter(kilometer){
         return meter;
     }
 }
-var output = kilometerToMeter(5);
-console.log('totall meter : ', output);
+
+// var output = kilometerToMeter(6);
+// console.log('totall meter : ', output);
 
 
 
@@ -38,8 +39,9 @@ function budgetCalculator(watch,phone,laptop){
 		return totallPrice;
     }
 }
-var totall = budgetCalculator(4,5,10);
-console.log('totall budget : ', totall);
+
+// var totall = budgetCalculator(4,5,10);
+// console.log('totall budget : ', totall);
 
 
 
@@ -70,8 +72,9 @@ function hotelCost(days){
     }
     return cost;
 }
-var totallCost = hotelCost(25);
-console.log('Totall Cost : ',totallCost);
+
+// var totallCost = hotelCost(25);
+// console.log('Totall Cost : ',totallCost);
 
 
 
@@ -100,8 +103,9 @@ function megaFriend(Names){
     }
     return LongestName;
 }
-var LargestName = megaFriend(Names)
-console.log('Largest Name is : ',LargestName);
+
+// var LargestName = megaFriend(Names)
+// console.log('Largest Name is : ',LargestName);
 
 
 
